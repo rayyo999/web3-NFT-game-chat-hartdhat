@@ -1,0 +1,9 @@
+{
+  "name": "Aang",
+  "description": "This is a description",
+  "image": "https://i.imgur.com/J3jhN7R.jpg",
+  "attributes": [
+    {"trait_type": "Health Points", "value": 200, "max_value": 200},
+    {"trait_type": "Attack Damage", "value": 50}
+  ]
+}

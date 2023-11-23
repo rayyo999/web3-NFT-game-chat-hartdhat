@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.enableBell": false,
+  "terminal.integrated.rightClickBehavior": "default",
+  "terminal.integrated.confirmOnExit": "always",
+  "terminal.integrated.cursorBlinking": true
+}
